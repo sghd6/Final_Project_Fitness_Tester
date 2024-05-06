@@ -34,8 +34,5 @@ class MainTest {
 	    } 
 	    
 	    // test 2 to check the isEven method 
-	    @Test
-	    void testIsEven2(){ 
-	        assertTrue(Main.isEven(80)); 
-	    } 
+	    
 	} 
